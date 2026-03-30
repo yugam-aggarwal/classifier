@@ -1,0 +1,9 @@
+{
+  "target_column": "LowerBodyO2",
+  "source": "pgmpy::example_model::child",
+  "notes": [
+    "Deterministic sample from pgmpy.get_example_model('child') with canonical structure and CPDs.",
+    "Sample size: 2500. Sampling seed: 1703.",
+    "Classification target column: LowerBodyO2."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "target_column": "PRESS",
+  "source": "pgmpy::example_model::alarm",
+  "notes": [
+    "Deterministic sample from pgmpy.get_example_model('alarm') with canonical structure and CPDs.",
+    "Sample size: 2500. Sampling seed: 1701.",
+    "Classification target column: PRESS."
+  ]
+}
